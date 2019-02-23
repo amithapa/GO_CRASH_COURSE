@@ -8,7 +8,7 @@ func main() {
 	var age int32 = 21
 	const isCool = true
 
-	isCool = false
+	// isCool := false
 
 	fmt.Println(name, age, isCool)
 	fmt.Printf("%T\n", isCool)
